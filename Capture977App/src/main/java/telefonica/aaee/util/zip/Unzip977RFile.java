@@ -4,7 +4,6 @@ package telefonica.aaee.util.zip;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.util.Collections;
 import java.util.logging.Logger;
 import java.util.zip.ZipEntry;
